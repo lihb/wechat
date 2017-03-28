@@ -7,3 +7,9 @@
 */.DS_Store
 */.settings/
 
+WeChat/app/build/
+WeChat/.gradle/
+WeChat/EaseUI/build/
+WeChat/redpacketlibrary/build/
+WeChat/.idea/
+
